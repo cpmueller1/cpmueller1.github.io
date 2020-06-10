@@ -1,0 +1,13 @@
+# Setup
+title:        Clearwater Point Swim Club
+tagline:      A club for swimming
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
